@@ -1,5 +1,1 @@
-# 0x00. Fix my code
-
-## About
-
-## Tasks
+# Fix-my-code-0
