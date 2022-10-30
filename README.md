@@ -1,6 +1,6 @@
 # Fix_My_Code_Challenge
 
-# About
+## About
 Deugging and fixing code
 
 ## Projects
