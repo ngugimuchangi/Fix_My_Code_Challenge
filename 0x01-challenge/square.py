@@ -10,8 +10,8 @@ class Square():
     """
 
     def __init__(self, width, **kwargs):
-        self.width = width
         """ Constructor method """
+        self.width = width
         for key, value in kwargs.items():
             setattr(self, key, value)
 
