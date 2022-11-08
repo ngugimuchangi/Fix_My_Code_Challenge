@@ -22,6 +22,8 @@
     "superagent": "^1.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/register": "^7.18.9",
     "browserify": "^9.0.3",
     "gulp": "^3.8.11",
     "gulp-clean": "^0.3.2",
