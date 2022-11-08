@@ -8,10 +8,9 @@ class Square():
     """ Square class definition
         Class attributes: width, height
     """
-    width = 0
-    height = 0
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, width, **kwargs):
+        self.width = width
         """ Constructor method """
         for key, value in kwargs.items():
             setattr(self, key, value)
