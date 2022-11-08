@@ -8,8 +8,6 @@ class square():
     """ Square class definition
         Class attributes: width, height
     """
-    width = 0
-    height = 0
 
     def __init__(self, *args, **kwargs):
         """ Constructor method """
