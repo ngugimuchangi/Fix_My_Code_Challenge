@@ -1,10 +1,12 @@
 #!/usr/bin/python3
 """ Square module
+    Classes: square
 """
 
 
 class square():
-    """ Square class
+    """ Square class definition
+        Class attributes: width, height
     """
     width = 0
     height = 0
