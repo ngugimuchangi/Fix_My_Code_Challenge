@@ -9,11 +9,14 @@ class Square():
         Class attributes: width, height
     """
 
-    def __init__(self, width, **kwargs):
+    width = 0
+    height = 0
+    
+    def __init__(self, *args, **kwargs):
         """ Constructor method """
-        self.width = width
         for key, value in kwargs.items():
-            setattr(self, key, value)
+            if key == "width":
+                setattr(self, key, value)
 
     def area_of_my_square(self):
         """ Area of the square """
