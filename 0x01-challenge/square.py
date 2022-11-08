@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 """ Square module
-    Classes: square
+    Classes: Square
 """
 
 
-class square():
+class Square():
     """ Square class definition
         Class attributes: width, height
     """
@@ -20,7 +20,7 @@ class square():
         """ Area of the square """
         return self.width * self.width
 
-    def PermiterOfMySquare(self):
+    def permiter_of_my_square(self):
         """ Perimeter of the square"""
         return (self.width * 4)
 
