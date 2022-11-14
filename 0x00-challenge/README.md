@@ -3,8 +3,8 @@
 ## About
 Fixing broken code
 
-## Taks
-0. Fix Fizzuzz implementation
+## Tasks
+0. Fix FizzBuzz implementation
 	* [0-fizzbuzz.py](0-fizzbuzz.py)
 1. Fix parseInt converstion base
 	* [1-print_square.js](1-print_square.js)
@@ -14,5 +14,5 @@ Fixing broken code
 	* wrong variable name and in setter method
 	* hashing approach in password checking method
 	* [3-user.py](3-user.py)
-4. Fix node rearragnemnt during deletion
+4. Fix node rearrangement during deletion
 	* [4-delete_dnodeint/](4-delete_dnodeint/)
